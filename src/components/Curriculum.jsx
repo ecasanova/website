@@ -22,11 +22,11 @@ export function Curriculum() {
                 />
                  <Skills
                   title="Tools"
-                  skills={[ "Git / GitHub", "ChatGPT / Copilot", "Visual Studio Code", "Figma", "Jira / Confluence"]}
+                  skills={[ "Git / GitHub / GH Actions", "ChatGPT / Copilot", "Visual Studio Code", "Figma", "Jira / Confluence"]}
                 />
                 <Skills
                   title="DevOps"
-                  skills={[ "AWS", "Amplify / Cognito", "Docker / ECS", "EC2 / RDS / Serverless", "Lambda / S3 / CloudFront"]}
+                  skills={[ "AWS / Amplify / Cognito", "Docker / ECS", "EC2 / RDS / Serverless", "Lambda / S3 / CloudFront", "Vercel / Netlify / Cloudflare"]}
                 />
               </div>
             </div>
