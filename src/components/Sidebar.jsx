@@ -39,6 +39,5 @@ export function Sidebar() {
             <Icon type='linkedin' href="https://www.linkedin.com/in/ecasanovave/" />
             </div>
         </div>
-        
     )
 }
