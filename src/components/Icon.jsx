@@ -1,24 +1,28 @@
-import { GitHubLogoIcon } from "@radix-ui/react-icons"
-import { LinkedInLogoIcon } from "@radix-ui/react-icons"
-import { TwitterLogoIcon } from "@radix-ui/react-icons"
-import { ExternalLinkIcon } from "@radix-ui/react-icons"
-import { MailIcon } from "@radix-ui/react-icons"
-import { PhoneIcon } from "@radix-ui/react-icons"
+import GitHub from "@mui/icons-material/GitHub"
+import LinkedInLogoIcon from "@mui/icons-material/LinkedIn"
+import TwitterLogoIcon from "@mui/icons-material/Twitter"
+import MailIcon from "@mui/icons-material/MailOutline"
+import PhoneIcon from "@mui/icons-material/PhoneOutlined"
+import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
+import Facebook from '@mui/icons-material/Facebook';
 
-export function Icon({ type }) {
+import Link from 'next/link';
+export function Icon({ type, href="#" }) {
     switch (type) {
         case "github":
-            return <GitHubLogoIcon />;
+            return (<Link href={href} target="_blank"><GitHub /></Link>)
         case "linkedin":
-            return <LinkedInLogoIcon />;
+            return (<Link href={href} target="_blank"><LinkedInLogoIcon /></Link>)
         case "twitter":
-            return <TwitterLogoIcon />;
-        case "external":
-            return <ExternalLinkIcon />;
-        case "mail":
-            return <MailIcon />;
+            return (<Link href={href} target="_blank"><TwitterLogoIcon /></Link>)
         case "phone":
-            return <PhoneIcon />;
+            return (<Link href={href} target="_blank"><PhoneIcon /></Link>)
+        case "mail":
+            return (<Link href={href} target="_blank"><MailIcon /></Link>)
+        case "location":
+            return (<Link href={href} target="_blank"><LocationOnOutlinedIcon /></Link>)
+        case "facebook":
+            return (<Link href={href} target="_blank"><Facebook /></Link>)
         default:
             return <></>;
     }

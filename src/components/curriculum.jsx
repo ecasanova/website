@@ -1,6 +1,10 @@
 import { Card } from './Card';
 import { Skills } from './Skills';
 import { TextIcon } from './TextIcon';
+import { Icon } from './Icon';
+import Image from 'next/image';
+
+import profilePic from '/public/me.jpg'
 export function Curriculum() {
   return (
     (<main className="bg-gray-100 dark:bg-gray-900 py-12 md:py-16 lg:py-24">
@@ -9,61 +13,21 @@ export function Curriculum() {
           <div className="bg-white dark:bg-gray-800 rounded-lg p-6 md:p-8 shadow-md">
             <div className="space-y-4">
               <div className="flex items-center space-x-4">
-                <div className="h-16 w-16 rounded-full bg-gray-200 dark:bg-gray-700" />
+                <Image src={profilePic} alt="Avatar" class="w-24 h-24 rounded-full object-cover"/>
                 <div>
                   <h1 className="text-2xl font-bold">Enrique Casanova</h1>
                   <p className="text-gray-500 dark:text-gray-400">
-                    Lead Engineer
+                    Full Stack Developer
                   </p>
                 </div>
               </div>
               <div className="space-y-2">
-                <TextIcon type='phone' text='+57 (310) 349-3540'></TextIcon>
-                <TextIcon type='email' text='contact@enriquecasanova.com'></TextIcon>
+                <TextIcon type='phone' text='+57 (310) 349-3540' href="tel:+573103493540"></TextIcon>
+                <TextIcon type='mail' text='contact@enriquecasanova.com' href="mailto:contact@enriquecasanova.com"></TextIcon>
                 <TextIcon type='location' text='Medellín, Colombia'></TextIcon>
-                <p className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
-                  <svg
-                    className="h-5 w-5"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24">
-                    <path
-                      d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
-                  </svg>
-                  <span>+57 (310) 3493540</span>
-                </p>
-                <p className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
-                  <svg
-                    className="h-5 w-5"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24">
-                    <path
-                      d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
-                    <polyline points="22,6 12,13 2,6" />
-                  </svg>
-                  <span>contact@enriquecasanova.com</span>
-                </p>
-                <p className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
-                  <svg
-                    className="h-5 w-5"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24">
-                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
-                    <circle cx="12" cy="10" r="3" />
-                  </svg>
-                  <span>Medellín, Colombia</span>
-                </p>
+
+                <Icon type='github' href="https://github.com/ecasanova" />
+                <Icon type='linkedin' href="https://www.linkedin.com/in/ecasanovave/" />
               </div>
             </div>
           </div>
@@ -113,20 +77,21 @@ export function Curriculum() {
                   Team leader of 4 engineers"
                 ></Card>
                 <Card
-                  title="Mobile Application Developer"
-                  company="G7 Pay"
-                  date="Jan 2019 - Jul 2020 - 1 yr 7 mos"
-                  description="Led a team of developers to build and launch a new e-commerce platform using React, Node.js, and MongoDB."
+                  title="Software Engineer"
+                  company="Cheil Worldwide · Full-time"
+                  date="Jul 2019 - Jul 2020 · 1 yr 1 mo"
+                  description="Fullstack developer for Samsung sales force monitoring app
+                  Colombia, Panama, and India.
+                  Skills: Angular 8, Material UI, REST, React, React Native"
                 ></Card>
               </div>
             </div>
             <div>
               <h2 className="text-2xl font-bold mb-4">Education</h2>
               <Card
-                  title="Lead Engineer"
-                  company="Company Y"
-                  date="2020 - Present"
-                  description="Led a team of developers to build and launch a new e-commerce platform using React, Node.js, and MongoDB."
+                  title="Electronic Engineer"
+                  company="Universidad Central de Venezuela"
+                  date="2008"
                 ></Card>
             </div>
             <div>
