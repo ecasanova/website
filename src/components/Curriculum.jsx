@@ -14,19 +14,19 @@ export function Curriculum() {
               <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 <Skills
                   title="Frontend"
-                  skills={["React", "JavaScript", "HTML/CSS", "Tailwind CSS"]}
+                  skills={["React / NextJs", "JavaScript / Typescript", "HTML/CSS", "Tailwind CSS", "Playwright / Jest"]}
                 />
                  <Skills
                   title="Backend"
-                  skills={["Node.js", "Express", "MongoDB", "PostgreSQL"]}
+                  skills={["Node.js", "Express / NestJs", "MongoDB", "PostgreSQL / MySQL", "Prisma / TypeORM / Sequelize"]}
                 />
                  <Skills
                   title="Tools"
-                  skills={[ "Git", "GitHub", "Visual Studio Code", "Figma"]}
+                  skills={[ "Git / GitHub", "ChatGPT / Copilot", "Visual Studio Code", "Figma", "Jira / Confluence"]}
                 />
                 <Skills
                   title="DevOps"
-                  skills={[ "AWS", "Docker", "Kubernetes", "Jenkins"]}
+                  skills={[ "AWS", "Amplify / Cognito", "Docker / ECS", "EC2 / RDS / Serverless", "Lambda / S3 / CloudFront"]}
                 />
               </div>
             </div>
