@@ -4,6 +4,8 @@ import Image from 'next/image';
 
 import profilePic from '/public/me.jpg'
 
+const years_of_experience = (new Date().getFullYear() - 2008); // 2008 is the year I graduated from college
+
 export function Sidebar() {
     return (
     <div className="bg-white dark:bg-gray-800 rounded-lg p-6 md:p-8 shadow-md">
@@ -25,7 +27,7 @@ export function Sidebar() {
         </div>
         <div className="space-y-20; mt-4">
             <p className="text-gray-500 dark:text-gray-400;">
-            Fullstack Developer (Frontend and Backend) with +15 years of experience in web & mobile development
+            Fullstack Developer (Frontend and Backend) with +{years_of_experience} years of experience in web & mobile development
             <br /> <br />
             As a seasoned Full Stack Web Developer, I specialize in building robust web applications using React and TypeScript. I have extensive experience in integrating both RESTful APIs and GraphQL, enabling efficient data interactions in complex software environments. 
             <br /> <br />
