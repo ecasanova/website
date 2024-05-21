@@ -4,14 +4,14 @@ import { Skills } from './Skills';
 
 export function Curriculum() {
   return (
-    (<main className="bg-gray-100 dark:bg-gray-900 py-6 md:py-6 lg:py-6">
-      <div className="fluid-container mx-auto px-4 md:px-6">
-        <div className="grid gap-8 md:grid-cols-[1fr_2fr] lg:gap-8">
+    (<main className="bg-gray-100 dark:bg-gray-900;">
+      <div className="fluid-container mx-auto px-4">
+        <div className="grid md:grid-cols-[1fr_2fr]">
           <Sidebar />
-          <div className="space-y-8 md:space-y-10 lg:space-y-12">
+          <div className="space-y-8 md:space-y-8 lg:space-y-8 md:overflow-scroll md:h-screen md:my-6 md:px-6 sm:pt-4">
             <div>
               <h2 className="text-2xl font-bold mb-4">Skills</h2>
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 <Skills
                   title="Frontend"
                   skills={["React", "JavaScript", "HTML/CSS", "Tailwind CSS"]}
@@ -87,14 +87,15 @@ export function Curriculum() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Education</h2>
               <Card
-                  title="Electronic Engineer"
-                  company="Universidad Central de Venezuela"
-                  date="2008"
-                ></Card>
+                title="Electronic Engineer"
+                company="Universidad Central de Venezuela"
+                date="2008"
+              />
             </div>
+            <br /><br />
           </div>
         </div>
       </div>
     </main>)
-  );
+  )
 }
