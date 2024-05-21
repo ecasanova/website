@@ -4,7 +4,8 @@ import { Skills } from './Skills';
 
 export function Curriculum() {
   return (
-    (<main className="bg-gray-100 dark:bg-gray-900;">
+    (
+    <main className="bg-gray-100 dark:bg-gray-900;">
       <div className="fluid-container mx-auto px-4">
         <div className="grid md:grid-cols-[1fr_2fr]">
           <Sidebar />
@@ -228,6 +229,7 @@ export function Curriculum() {
           </div>
         </div>
       </div>
-    </main>)
+    </main>
+    )
   )
 }
