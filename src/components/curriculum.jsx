@@ -81,7 +81,7 @@ export function Curriculum() {
                   <p className="text-gray-500 dark:text-gray-400">Startup X | 2018 - 2019</p>
                   <ul className="mt-4 space-y-2 text-gray-500 dark:text-gray-400">
                     <li>
-                      Assisted in the development and maintenance of the company's website using HTML, CSS, and
+                      Assisted in the development and maintenance of the companys website using HTML, CSS, and
                       JavaScript.
                     </li>
                     <li>
