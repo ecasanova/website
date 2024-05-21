@@ -38,6 +38,7 @@ export function Curriculum() {
                   company="Stellar Elements an Amdocs Company"
                   companyUrl='https://www.stellarelements.com/'
                   date="Dec 2023 - Present - 6 mos"
+                  city="Medellín, Colombia"
                   description="Promoted to Lead Software Engineer at Stellar Elements, an Amdocs company. Working on the development platform using React, Typescript, Serverless and Postgres. Manager of 4 engineers"
                 />
                 <Card
@@ -45,6 +46,7 @@ export function Curriculum() {
                   company="Stellar Elements an Amdocs Company"
                   companyUrl='https://www.stellarelements.com/'
                   date="Jun 2023 - Dec 2023 - 6 mos"
+                  city="Medellín, Colombia"
                   description="Working on headless websites using contentful and React, Promoted to Senior Software Engineer and Manager. Company Rebranded to Stellar Elements. Manager of 5 engineers."
                 />
                  <Card
@@ -52,6 +54,7 @@ export function Curriculum() {
                   company="projekt202 (Acquired by Amdocs)"
                   companyUrl='https://www.linkedin.com/company/projekt202/?originalSubdomain=co'
                   date="Sep 2022 - Jun 2023 - 10 mos"
+                  city="Medellín, Colombia"
                   description="Promoted to Senior Software Engineer and Manager at ADK Group, a projekt202 company. Manager of 5 engineers."
                 />
                  <Card
@@ -59,6 +62,7 @@ export function Curriculum() {
                   company="ADK Group (Acquired by projekt202)"
                   companyUrl='https://www.adkgroup.com/'
                   date="Jul 2022 - Sep 2022 - 3 mos"
+                  city="Medellín, Colombia"
                   description="Promoted to Senior Software Engineer at ADK Group, a projekt202 company."
                 />
                 <Card
@@ -66,6 +70,7 @@ export function Curriculum() {
                   company="projekt202 (Acquired by Amdocs)"
                   companyUrl='https://www.adkgroup.com/'
                   date="Jan 2022 - Jul 2022 - 7 mos"
+                  city="Medellín, Colombia"
                   description="Software Developer at ADK Group, a projekt202 company.
                   Skills: React, NextJs, Headless CMS Contentful / Strapi, NodeJS, Wordpress, AWS, Vercel, Netlify, Hasura"
                 />
@@ -74,8 +79,8 @@ export function Curriculum() {
                   company="RV Dev"
                   companyUrl='https://www.rvdev.com/'
                   date="Jul 2020 - Jan 2022 - 1 yr 7 mos"
-                  description="Full Stack Developer / Team leader.
-                  Work in telehealth & ecommerce project in Shopify and Wordpress
+                  city="Medellín, Colombia"
+                  description="Work in telehealth & ecommerce project in Shopify and Wordpress
                   Using custom app in react and integration with others systems (Payment Gateway, Identity Validation, EHR System, Customer Service Software)
                   Stack: React, Typescript, Node, Shopify, Wordpress, AWS
                   Tools: Klaviyo, Recharge, Georgias, Amazon Rekognition, Stripe Identity
@@ -83,7 +88,8 @@ export function Curriculum() {
                 />
                 <Card
                   title="Software Engineer"
-                  company="Cheil Worldwide"
+                  company="Cheil Worldwide - Samsung Colombia"
+                  city="Bogotá, Colombia"
                   companyUrl='https://www.cheil.com.co/'
                   date="Jul 2019 - Jul 2020 · 1 yr 1 mo"
                   description="Fullstack developer for Samsung sales force monitoring app
@@ -94,6 +100,7 @@ export function Curriculum() {
                   title="Senior Full Stack Lead Developer"
                   company="Wikot"
                   companyUrl='https://wikot.com/'
+                  city="Bogotá, Colombia"
                   date="Apr 2015 - Jun 2019 · 4 yrs 3 mos"
                   description="Management of digital technological development projects for clients of the
                   agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB,
@@ -106,10 +113,11 @@ export function Curriculum() {
                   Skills: AngularJS · Node.js · JavaScript"
                 />
                 <Card
-                  title="Wordpress Developer"
+                  title="Wordpress Developer - Freelancer"
                   company="Inspirulina"
                   companyUrl='https://www.inspirulina.com/'
                   date="Sep 2011 - Jun 2019 · 7 yrs 10 mos"
+                  city="Miami, Florida"
                   description="Development, maintenance and support web portal www.inspirulina.com and www.elibravo.com
                   Administration and development of web platform based on Wordpress.
                   Cloud Server Administration: Rackspace, DigitalOcean.
@@ -121,6 +129,7 @@ export function Curriculum() {
                   title="Web & Mobile Application Developer"
                   company="Ciencuadras.com"
                   companyUrl='https://www.ciencuadras.com/'
+                  city="Bogotá, Colombia"
                   date="Nov 2014 - Apr 2015 · 6 mos"
                   description="Web portal development for the real estate sector
                   Skills: PHP, HTML, CSS, YII2, AWS, Google MapsWeb portal development for the real estate sector Skills: PHP, HTML, CSS, YII2, AWS, Google Maps"
@@ -130,6 +139,7 @@ export function Curriculum() {
                   company="CINEX"
                   companyUrl='https://www.cinex.com.ve/'
                   date="Nov 2013 - Oct 2014 · 1 yr"
+                  city="Caracas, Venezuela"
                   description="irect multidisciplinary team for the Management of Innovation Projects and Adaptation of the
                   Cinex's technological and transactional sales platform.
                   Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex.
@@ -141,6 +151,7 @@ export function Curriculum() {
                   company="Evenpro"
                   companyUrl='https://www.evenpro.com/'
                   date="Feb 2012 - Nov 2013 · 1 yr 10 mos"
+                  city="Caracas, Venezuela"
                   description="Lead the team in charge of the analysis, planning, design, development and
                   implementation of digital marketing campaigns in the web area, and social networks of
                   the company. Manager of 6 personsLead the team in charge of the analysis, planning, design,
@@ -151,6 +162,7 @@ export function Curriculum() {
                    title="Senior Web Developer"
                    company="Evenpro"
                    companyUrl='https://www.evenpro.com/'
+                   city="Caracas, Venezuela"
                    date="Jun 2010 - Jan 2012 · 1 yr 8 mos"
                    description="Development of a content management system, applications and functionalities for the
                   construction of the new website of the company. Integration of plugins and widgets for
@@ -161,6 +173,7 @@ export function Curriculum() {
                   title="Senior PHP Developer - Freelancer"
                   company="Hotel Shelter Suites"
                   companyUrl='https://www.hotel-shelter.com/'
+                  city="Caracas, Venezuela"
                   date="Aug 2011 - Oct 2011 · 3 mos"
                   description="Development of a new web platform, with an online payment module for room reservations and hotel services. 
                   Management of room availability and reservations.
@@ -170,6 +183,7 @@ export function Curriculum() {
                   title="Senior PHP Developer - Freelancer"
                   company="Hotel Primera Avenida"
                   companyUrl='https://primeravenida.com/'
+                  city="Caracas, Venezuela"
                   date="Aug 2011 - Oct 2011 · 3 mos"
                   description="Development of a new web platform, with an online payment module for room reservations and hotel services. 
                   Management of room availability and reservations.
@@ -178,6 +192,7 @@ export function Curriculum() {
                 <Card
                   title="Senior Web Developer"
                   company="Otusnet"
+                  city="Caracas, Venezuela"
                   date="Apr 2010 - May 2010 · 2 mos"
                   description="Development of a Marketplace platform for the exchange of goods and services, for a client Ministry of Technology of Venezuela
                   Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap, ecommerce."
@@ -185,13 +200,15 @@ export function Curriculum() {
                 <Card
                   title="Senior Web Developer PHP"
                   company="Divux Systems"
+                  city="Caracas, Venezuela"
                   date="Apr 2009 - Mar 2010 · 1 yr"
                   description="Social network development based on symfony - www.divux.com
                   Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap"
                 />
                 <Card
-                  title="Frontend Developer"
+                  title="Frontend Developer - Freelancer"
                   company="Flight Access Inc."
+                  city="Panama City, Panama"
                   date="Jan 2009 - Dec 2009 · 1 yr"
                   description="Web development and integration with MasterCard payment gateway.
                   Creation of a system to collect information related to private air operations. (Request for company services such as Fligth Plans).
