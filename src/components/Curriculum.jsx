@@ -71,20 +71,20 @@ const entries = [
     "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS. Manager of 4 engineers"
   },
   {
-    "title": "Wordpress Developer - Freelancer",
-    "company": "Inspirulina",
-    "companyUrl": "https://www.inspirulina.com/",
-    "date": "Sep 2011 - Jun 2019 · 7 yrs 10 mos",
-    "city": "Miami, Florida",
-    "description": "Development, maintenance and support web portal www.inspirulina.com and www.elibravo.com Administration and development of web platform based on Wordpress. Cloud Server Administration: Rackspace, DigitalOcean. Google Suite administration for email management. AddServer installation and maintenance: OpenX, Revive, Google Adsense. Skills: Wordpress, MySQL, PHP, DigitalOcean"
-  },
-  {
     "title": "Web & Mobile Application Developer",
     "company": "Ciencuadras.com",
     "companyUrl": "https://www.ciencuadras.com/",
     "date": "Nov 2014 - Apr 2015 · 6 mos",
     "city": "Bogotá, Colombia",
     "description": "Web portal development for the real estate sector Skills: PHP, HTML, CSS, YII2, AWS, Google Maps"
+  },
+  {
+    "title": "Wordpress Developer - Freelancer",
+    "company": "Inspirulina",
+    "companyUrl": "https://www.inspirulina.com/",
+    "date": "Sep 2011 - Jun 2019 · 7 yrs 10 mos",
+    "city": "Miami, Florida",
+    "description": "Development, maintenance and support web portal www.inspirulina.com and www.elibravo.com Administration and development of web platform based on Wordpress. Cloud Server Administration: Rackspace, DigitalOcean. Google Suite administration for email management. AddServer installation and maintenance: OpenX, Revive, Google Adsense. Skills: Wordpress, MySQL, PHP, DigitalOcean"
   },
   {
     "title": "Web Development Manager",
