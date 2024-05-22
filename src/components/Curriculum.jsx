@@ -9,7 +9,7 @@ const entries = [
     "companyUrl": "https://www.stellarelements.com/",
     "date": "Jan 2022 - Present - 2 yrs (Total)",
     "city": "Medellín, Colombia",
-    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. Working on web platform unsing React, GraphQL Serverles and PostgresSQL. Manager of 4 engineers.",
+    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform unsing React, GraphQL Serverles and PostgresSQL. \n\n Manager of 4 engineers.",
     "childs": [
       {
         "title": "Senior Software Engineer, Manager",
@@ -17,7 +17,7 @@ const entries = [
         "companyUrl": "https://www.stellarelements.com/",
         "date": "Jun 2023 - Dec 2023 - 6 mos",
         "city": "Medellín, Colombia",
-        "description": "Working on headless websites using contentful and React, Promoted to Senior Software Engineer and Manager. Company Rebranded to Stellar Elements. Manager of 5 engineers."
+        "description": "Working on headless websites using contentful and React, Promoted to Senior Software Engineer and Manager. Company Rebranded to Stellar Elements. \n\n Manager of 5 engineers."
       },
       {
         "title": "Senior Software Engineer, Manager",
@@ -25,7 +25,7 @@ const entries = [
         "companyUrl": "https://www.linkedin.com/company/projekt202/?originalSubdomain=co",
         "date": "Sep 2022 - Jun 2023 - 10 mos",
         "city": "Medellín, Colombia",
-        "description": "Promoted to Manager at ADK Group, a Projekt202 company. Manager of 5 engineers."
+        "description": "Promoted to Manager at ADK Group, a Projekt202 company. \n\n Manager of 5 engineers."
       },
       {
         "title": "Senior Software Engineer",
@@ -41,7 +41,7 @@ const entries = [
         "companyUrl": "https://www.adkgroup.com/",
         "date": "Jan 2022 - Jul 2022 - 7 mos",
         "city": "Medellín, Colombia",
-        "description": "Software Developer at ADK Group, a Projekt202 company. Skills: React, NextJs, Headless CMS Contentful / Strapi, NodeJS, Wordpress, AWS, Vercel, Netlify, Hasura"
+        "description": "Software Developer at ADK Group, a Projekt202 company. \n\n Skills: React, NextJs, Headless CMS Contentful / Strapi, NodeJS, Wordpress, AWS, Vercel, Netlify, Hasura"
       }
     ]
   },
@@ -52,7 +52,7 @@ const entries = [
     "companyUrl": "https://www.rvdev.com/",
     "date": "Jul 2020 - Jan 2022 - 1 yr 7 mos",
     "city": "Medellín, Colombia",
-    "description": "Work in telehealth & ecommerce project in Shopify and Wordpress Using custom app in react and integration with others systems (Payment Gateway, Identity Validation, EHR System, Customer Service Software) Stack: React, Typescript, Node, Shopify, Wordpress, AWS Tools: Klaviyo, Recharge, Georgias, Amazon Rekognition, Stripe Identity Team leader of 4 engineers"
+    "description": "Work in telehealth & ecommerce project in Shopify and Wordpress Using custom app in react and integration with others systems (Payment Gateway, Identity Validation, EHR System, Customer Service Software) \n\n Stack: React, Typescript, Node, Shopify, Wordpress, AWS \n\n Tools: Klaviyo, Recharge, Georgias, Amazon Rekognition, Stripe Identity \n\n Team leader of 4 engineers"
   },
   {
     "title": "Software Engineer",
@@ -68,7 +68,7 @@ const entries = [
     "companyUrl": "https://wikot.com/",
     "date": "Apr 2015 - Jun 2019 · 4 yrs 3 mos",
     "city": "Bogotá, Colombia",
-    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS. Manager of 4 engineers"
+    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, Seat \n\n Cloud platform administration (Linode and AWS) \n\n Development and integration of websites with Salesforce Marketing Cloud \n\n Manager of 4 engineers"
   },
   {
     "title": "Web & Mobile Application Developer",
@@ -76,7 +76,7 @@ const entries = [
     "companyUrl": "https://www.ciencuadras.com/",
     "date": "Nov 2014 - Apr 2015 · 6 mos",
     "city": "Bogotá, Colombia",
-    "description": "Web portal development for the real estate sector Skills: PHP, HTML, CSS, YII2, AWS, Google Maps"
+    "description": "Web portal development for the real estate sector \n\n Skills: PHP, HTML, CSS, YII2, AWS, Google Maps"
   },
   {
     "title": "Wordpress Developer - Freelancer",
@@ -84,7 +84,7 @@ const entries = [
     "companyUrl": "https://www.inspirulina.com/",
     "date": "Sep 2011 - Jun 2019 · 7 yrs 10 mos",
     "city": "Miami, Florida",
-    "description": "Development, maintenance and support web portal www.inspirulina.com and www.elibravo.com Administration and development of web platform based on Wordpress. Cloud Server Administration: Rackspace, DigitalOcean. Google Suite administration for email management. AddServer installation and maintenance: OpenX, Revive, Google Adsense. Skills: Wordpress, MySQL, PHP, DigitalOcean"
+    "description": "Development, maintenance and support web portal www.inspirulina.com and www.elibravo.com Administration and development of web platform based on Wordpress. Cloud Server Administration: Rackspace, DigitalOcean. Google Suite administration for email management. AddServer installation and maintenance: OpenX, Revive, Google Adsense. \n\n Skills: Wordpress, MySQL, PHP, DigitalOcean"
   },
   {
     "title": "Web Development Manager",
@@ -92,7 +92,7 @@ const entries = [
     "companyUrl": "https://www.cinex.com.ve/",
     "date": "Jan 2010 - Oct 2014 · 3.5 yrs (Total)",
     "city": "Caracas, Venezuela",
-    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 engineers",
+    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. \n\n Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments.\n\n  Manager of 4 engineers",
     "childs": [
       {
         "title": "Web Development Manager",
@@ -100,7 +100,7 @@ const entries = [
         "companyUrl": "https://www.evenpro.com/",
         "date": "Feb 2012 - Nov 2013 · 1 yr 10 mos",
         "city": "Caracas, Venezuela",
-        "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. Manager of 6 engineers."
+        "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. \n\n Manager of 6 engineers."
       },
       {
         "title": "Senior Web Developer",
@@ -119,7 +119,7 @@ const entries = [
     "companyUrl": "https://www.hotel-shelter.com/",
     "date": "Aug 2011 - Oct 2011 · 3 mos",
     "city": "Caracas, Venezuela",
-    "description": "Development of a new web platform, with an online payment module for room reservations and hotel services. Management of room availability and reservations. Skills: PHP, HTML, CSS, ecoomerce. Online payments"
+    "description": "Development of a new web platform, with an online payment module for room reservations and hotel services. Management of room availability and reservations. \n\n Skills: PHP, HTML, CSS, ecoomerce. Online payments"
   },
   {
     "title": "Senior PHP Developer - Freelancer",
@@ -127,28 +127,28 @@ const entries = [
     "companyUrl": "https://primeravenida.com/",
     "date": "Aug 2011 - Oct 2011 · 3 mos",
     "city": "Caracas, Venezuela",
-    "description": "Development of a new web platform, with an online payment module for room reservations and hotel services. Management of room availability and reservations. Skills: PHP, HTML, CSS, ecoomerce. Online payments"
+    "description": "Development of a new web platform, with an online payment module for room reservations and hotel services. Management of room availability and reservations. \n\n Skills: PHP, HTML, CSS, ecoomerce. Online payments"
   },
   {
     "title": "Senior Web Developer",
     "company": "Otusnet",
     "city": "Caracas, Venezuela",
     "date": "Apr 2010 - May 2010 · 2 mos",
-    "description": "Development of a Marketplace platform for the exchange of goods and services, for a client Ministry of Technology of Venezuela Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap, ecommerce."
+    "description": "Development of a Marketplace platform for the exchange of goods and services, for a client Ministry of Technology of Venezuela \n\n Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap, ecommerce."
   },
   {
     "title": "Senior Web Developer PHP",
     "company": "Divux Systems",
     "city": "Caracas, Venezuela",
     "date": "Apr 2009 - Mar 2010 · 1 yr",
-    "description": "Social network development based on symfony - www.divux.com Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap"
+    "description": "Social network development based on symfony - www.divux.com \n\n Skills: PHP, HTML, CSS, Symfony, JQuery, Boostrap"
   },
   {
     "title": "Frontend Developer - Freelancer",
     "company": "Flight Access Inc.",
     "city": "Panama City, Panama",
     "date": "Jan 2009 - Dec 2009 · 1 yr",
-    "description": "Web development and integration with MasterCard payment gateway. Creation of a system to collect information related to private air operations. (Request for company services such as Fligth Plans). Skills: HTML, CSS, PHP, Javascript, Jquery."
+    "description": "Web development and integration with MasterCard payment gateway. Creation of a system to collect information related to private air operations. (Request for company services such as Fligth Plans). \n\n Skills: HTML, CSS, PHP, Javascript, Jquery."
   }
 ]
 

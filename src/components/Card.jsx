@@ -8,7 +8,7 @@ export function Card({ title, company, date, description, companyUrl='#', city, 
             <p className="text-gray-500 dark:text-gray-400 text-xs">{city}</p>
             {description && (
                 <ul className="mt-4 space-y-2 text-gray-500 dark:text-gray-400 text-xs">
-                    <li><p>{description}</p></li>
+                    <li><p className='whitespace-pre-line'>{description}</p></li>
                 </ul>
             )}
             {childs && childs.length > 0 && (
@@ -34,8 +34,8 @@ export function Child({ title, company, date, description, companyUrl='#', city 
             <p className="text-gray-500 dark:text-gray-400 text-xs"><Link href={companyUrl} aria-label={company + ' website'} target={ (companyUrl === "#") ? "_self" : "_blank" } className={ (companyUrl === "#") ? "hover:initial" : "hover:underline" }>{company}</Link> | {date}</p>
             <p className="text-gray-500 dark:text-gray-400 text-xs">{city}</p>
             {description && (
-                <ul className="mt-4 space-y-2 text-gray-500 dark:text-gray-400 text-xs">
-                    <li><p>{description}</p></li>
+                <ul className="mt-4 space-y-2 text-gray-500 dark:text-gray-400 text-xs ">
+                    <li><p className='whitespace-pre-line'>{description}</p></li>
                 </ul>
             )}
         </div>
