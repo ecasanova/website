@@ -223,6 +223,7 @@ export function Curriculum() {
                 title="Electronic Engineer"
                 company="Universidad Central de Venezuela"
                 date="2008"
+                description="Not finished"
               />
             </div>
             <br /><br />
