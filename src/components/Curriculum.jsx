@@ -9,7 +9,7 @@ export function Curriculum() {
       <div className="fluid-container mx-auto px-4">
         <div className="grid md:grid-cols-[1fr_2fr]">
           <Sidebar />
-          <div className="space-y-8 md:space-y-8 lg:space-y-8 md:overflow-scroll md:h-screen md:my-6 md:px-6 sm:pt-4">
+          <div className="space-y-8 md:space-y-8 lg:space-y-8 md:overflow-scroll md:h-screen md:my-6 md:px-6 pt-4">
             <div>
               <h2 className="text-2xl font-bold mb-4">Skills</h2>
               <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -141,7 +141,7 @@ export function Curriculum() {
                   companyUrl='https://www.cinex.com.ve/'
                   date="Nov 2013 - Oct 2014 · 1 yr"
                   city="Caracas, Venezuela"
-                  description="irect multidisciplinary team for the Management of Innovation Projects and Adaptation of the
+                  description="Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the
                   Cinex's technological and transactional sales platform.
                   Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex.
                   Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments.
