@@ -204,7 +204,7 @@ export function Curriculum() {
     (
     <main className="dark:bg-black">
       <div className="fluid-container mx-auto px-4">
-        <div className="grid md:grid-cols-[1fr_2fr] py-4">
+        <div className="grid md:grid-cols-[1fr_2fr]">
           <Sidebar />
           <div className="space-y-8 md:space-y-8 lg:space-y-8 md:overflow-scroll md:h-screen md:my-6 md:px-6 pt-4">
             <div>
