@@ -2,8 +2,6 @@ import { TextIcon } from './TextIcon'
 import { Icon } from './Icon'
 import Image from 'next/image'
 
-import profilePic from '/public/me.jpg'
-
 const years_of_experience = (new Date().getFullYear() - 2008) // 2008 is the year I graduated from college
 
 export function Sidebar() {

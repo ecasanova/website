@@ -1,4 +1,3 @@
-import { Work } from '@mui/icons-material';
 import { Card } from './Card';
 import { Sidebar } from './Sidebar';
 import { Skills } from './Skills';
@@ -224,6 +223,7 @@ export function Curriculum() {
                     key={index}
                     title={entry.title}
                     company={entry.company}
+                    companyUrl={entry.companyUrl}
                     date={entry.date}
                     description={entry.description}
                     childs={entry.childs ?? []}
