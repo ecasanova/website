@@ -11,7 +11,7 @@ export function Card({ title, company, date, description, companyUrl='#', city, 
                     <li><p>{description}</p></li>
                 </ul>
             )}
-            {childs && (
+            {childs && childs.length > 0 && (
                 <div className="mt-4 space-y-2 text-xs">
                     <p className="text-gray-500 dark:text-gray-400 text-xs my-4">Promotions or title changes in the same company:</p>
                     <ul className='ml-4'>
@@ -29,8 +29,8 @@ export function Card({ title, company, date, description, companyUrl='#', city, 
 
 export function Child({ title, company, date, description, companyUrl='#', city }) {
     return (
-        <div className="pb-6">
-            <h3 className="text-lg font-bold">{title}</h3>
+        <div className="pb-4">
+            <h4 className="text-sm font-bold">{title}</h4>
             <p className="text-gray-500 dark:text-gray-400 text-xs"><Link href={companyUrl} aria-label={company + ' website'} target={ (companyUrl === "#") ? "_self" : "_blank" } className={ (companyUrl === "#") ? "hover:initial" : "hover:underline" }>{company}</Link> | {date}</p>
             <p className="text-gray-500 dark:text-gray-400 text-xs">{city}</p>
             {description && (

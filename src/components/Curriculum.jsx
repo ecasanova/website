@@ -1,3 +1,4 @@
+import { Work } from '@mui/icons-material';
 import { Card } from './Card';
 import { Sidebar } from './Sidebar';
 import { Skills } from './Skills';
@@ -9,7 +10,7 @@ const entries = [
     "companyUrl": "https://www.stellarelements.com/",
     "date": "Jan 2022 - Present - 2 yrs (Total)",
     "city": "Medellín, Colombia",
-    "description": "Promoted to Lead Software Engineer at Stellar Elements, an Amdocs company. Working on the development platform using React, Typescript, Serverless and Postgres. Manager of 4 engineers",
+    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. Working on web platform unsing React, GraphQL Serverles and PostgresSQL. Manager of 4 engineers.",
     "childs": [
       {
         "title": "Senior Software Engineer, Manager",
@@ -25,7 +26,7 @@ const entries = [
         "companyUrl": "https://www.linkedin.com/company/projekt202/?originalSubdomain=co",
         "date": "Sep 2022 - Jun 2023 - 10 mos",
         "city": "Medellín, Colombia",
-        "description": "Promoted to Senior Software Engineer and Manager at ADK Group, a Projekt202 company. Manager of 5 engineers."
+        "description": "Promoted to Manager at ADK Group, a Projekt202 company. Manager of 5 engineers."
       },
       {
         "title": "Senior Software Engineer",
@@ -68,7 +69,7 @@ const entries = [
     "companyUrl": "https://wikot.com/",
     "date": "Apr 2015 - Jun 2019 · 4 yrs 3 mos",
     "city": "Bogotá, Colombia",
-    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS. Manager of 4 persons"
+    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS. Manager of 4 engineers"
   },
   {
     "title": "Wordpress Developer - Freelancer",
@@ -92,7 +93,7 @@ const entries = [
     "companyUrl": "https://www.cinex.com.ve/",
     "date": "Jan 2010 - Oct 2014 · 3.5 yrs (Total)",
     "city": "Caracas, Venezuela",
-    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 persons",
+    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 engineers",
     "childs": [
       {
         "title": "Web Development Manager",
@@ -100,7 +101,7 @@ const entries = [
         "companyUrl": "https://www.evenpro.com/",
         "date": "Feb 2012 - Nov 2013 · 1 yr 10 mos",
         "city": "Caracas, Venezuela",
-        "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. Manager of 6 persons."
+        "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. Manager of 6 engineers."
       },
       {
         "title": "Senior Web Developer",
