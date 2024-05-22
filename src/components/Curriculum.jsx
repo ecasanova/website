@@ -82,7 +82,8 @@ export function Curriculum() {
                   date="Jul 2020 - Jan 2022 - 1 yr 7 mos"
                   city="Medellín, Colombia"
                   description="Work in telehealth & ecommerce project in Shopify and Wordpress
-                  Using custom app in react and integration with others systems (Payment Gateway, Identity Validation, EHR System, Customer Service Software)
+                  Using custom app in react and integration with others systems
+                  (Payment Gateway, Identity Validation, EHR System, Customer Service Software)
                   Stack: React, Typescript, Node, Shopify, Wordpress, AWS
                   Tools: Klaviyo, Recharge, Georgias, Amazon Rekognition, Stripe Identity
                   Team leader of 4 engineers"
@@ -110,8 +111,7 @@ export function Curriculum() {
                   Development and integration of websites with Salesforce Marketing Cloud for the BID client
                   Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia.
                   Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS
-                  Manager of 4 personsManagement of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS Manager of 4 persons
-                  Skills: AngularJS · Node.js · JavaScript"
+                  Manager of 4 persons"
                 />
                 <Card
                   title="Wordpress Developer - Freelancer"
