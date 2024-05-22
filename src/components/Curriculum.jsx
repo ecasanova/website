@@ -33,7 +33,7 @@ export function Curriculum() {
             </div>
             <div>
               <h2 className="text-2xl font-bold mb-4">Work Experience</h2>
-              <div className="space-y-6">
+              <div className="space-y-4">
                 <Card
                   title="Lead Software Engineer"
                   company="Stellar Elements an Amdocs Company"
@@ -222,11 +222,30 @@ export function Curriculum() {
               <Card
                 title="Electronic Engineer"
                 company="Universidad Central de Venezuela"
-                date="2008"
-                description="Not finished"
+                date="2008 - Not finished"
+              />
+              <Card
+                title="Web Project Manager"
+                company="ESCUELA WEB, LLCESCUELA WEB, LLC"
+                date="Issued Feb 2012"
+              />
+              <Card
+                title="E-Business Application Developer"
+                company="IBM"
+                date="Issued Mar 2009 - Credential ID VECUC011039"
+              />
+              <Card
+                title="Programming Fundamentals"
+                company="IBM"
+                date="Issued Aug 2008 - Credential ID VECUC011039"
+              />
+              <Card
+                title="IT and Networking Fundamentals"
+                company="IBM"
+                date="Issued Dec 2007 - Credential ID VECUC008182"
               />
             </div>
-            <br /><br />
+            <div className='pb-8'></div>
           </div>
         </div>
       </div>
