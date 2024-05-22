@@ -145,8 +145,7 @@ export function Curriculum() {
                   Cinex's technological and transactional sales platform.
                   Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex.
                   Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments.
-                  Manager of 4 personsDirect multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. 
-                  Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 persons"/>
+                  Manager of 4 persons"/>
                 <Card
                   title="Web Development Manager"
                   company="Evenpro"
@@ -155,9 +154,7 @@ export function Curriculum() {
                   city="Caracas, Venezuela"
                   description="Lead the team in charge of the analysis, planning, design, development and
                   implementation of digital marketing campaigns in the web area, and social networks of
-                  the company. Manager of 6 personsLead the team in charge of the analysis, planning, design,
-                  development and implementation of digital marketing campaigns in the web area, and social networks of the company.
-                  Manager of 6 persons"
+                  the company. Manager of 6 persons."
                 />
                 <Card
                    title="Senior Web Developer"
