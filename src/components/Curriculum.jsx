@@ -7,42 +7,45 @@ const entries = [
     "title": "Lead Software Engineer",
     "company": "Stellar Elements an Amdocs Company",
     "companyUrl": "https://www.stellarelements.com/",
-    "date": "Dec 2023 - Present - 6 mos",
+    "date": "Jan 2022 - Present - 2 yrs (Total)",
     "city": "Medellín, Colombia",
-    "description": "Promoted to Lead Software Engineer at Stellar Elements, an Amdocs company. Working on the development platform using React, Typescript, Serverless and Postgres. Manager of 4 engineers"
+    "description": "Promoted to Lead Software Engineer at Stellar Elements, an Amdocs company. Working on the development platform using React, Typescript, Serverless and Postgres. Manager of 4 engineers",
+    "childs": [
+      {
+        "title": "Senior Software Engineer, Manager",
+        "company": "Stellar Elements an Amdocs Company",
+        "companyUrl": "https://www.stellarelements.com/",
+        "date": "Jun 2023 - Dec 2023 - 6 mos",
+        "city": "Medellín, Colombia",
+        "description": "Working on headless websites using contentful and React, Promoted to Senior Software Engineer and Manager. Company Rebranded to Stellar Elements. Manager of 5 engineers."
+      },
+      {
+        "title": "Senior Software Engineer, Manager",
+        "company": "Projekt202",
+        "companyUrl": "https://www.linkedin.com/company/projekt202/?originalSubdomain=co",
+        "date": "Sep 2022 - Jun 2023 - 10 mos",
+        "city": "Medellín, Colombia",
+        "description": "Promoted to Senior Software Engineer and Manager at ADK Group, a Projekt202 company. Manager of 5 engineers."
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Projekt202",
+        "companyUrl": "https://www.adkgroup.com/",
+        "date": "Jul 2022 - Sep 2022 - 3 mos",
+        "city": "Medellín, Colombia",
+        "description": "Promoted to Senior Software Engineer at ADK Group, a Projekt202 company."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "ADK Group",
+        "companyUrl": "https://www.adkgroup.com/",
+        "date": "Jan 2022 - Jul 2022 - 7 mos",
+        "city": "Medellín, Colombia",
+        "description": "Software Developer at ADK Group, a Projekt202 company. Skills: React, NextJs, Headless CMS Contentful / Strapi, NodeJS, Wordpress, AWS, Vercel, Netlify, Hasura"
+      }
+    ]
   },
-  {
-    "title": "Senior Software Engineer, Manager",
-    "company": "Stellar Elements an Amdocs Company",
-    "companyUrl": "https://www.stellarelements.com/",
-    "date": "Jun 2023 - Dec 2023 - 6 mos",
-    "city": "Medellín, Colombia",
-    "description": "Working on headless websites using contentful and React, Promoted to Senior Software Engineer and Manager. Company Rebranded to Stellar Elements. Manager of 5 engineers."
-  },
-  {
-    "title": "Senior Software Engineer, Manager",
-    "company": "projekt202 (Acquired by Amdocs)",
-    "companyUrl": "https://www.linkedin.com/company/projekt202/?originalSubdomain=co",
-    "date": "Sep 2022 - Jun 2023 - 10 mos",
-    "city": "Medellín, Colombia",
-    "description": "Promoted to Senior Software Engineer and Manager at ADK Group, a projekt202 company. Manager of 5 engineers."
-  },
-  {
-    "title": "Senior Software Engineer",
-    "company": "ADK Group (Acquired by projekt202)",
-    "companyUrl": "https://www.adkgroup.com/",
-    "date": "Jul 2022 - Sep 2022 - 3 mos",
-    "city": "Medellín, Colombia",
-    "description": "Promoted to Senior Software Engineer at ADK Group, a projekt202 company."
-  },
-  {
-    "title": "Software Engineer",
-    "company": "projekt202 (Acquired by Amdocs)",
-    "companyUrl": "https://www.adkgroup.com/",
-    "date": "Jan 2022 - Jul 2022 - 7 mos",
-    "city": "Medellín, Colombia",
-    "description": "Software Developer at ADK Group, a projekt202 company. Skills: React, NextJs, Headless CMS Contentful / Strapi, NodeJS, Wordpress, AWS, Vercel, Netlify, Hasura"
-  },
+,
   {
     "title": "Full Stack Developer - Team Lead",
     "company": "RV Dev",
@@ -65,7 +68,7 @@ const entries = [
     "companyUrl": "https://wikot.com/",
     "date": "Apr 2015 - Jun 2019 · 4 yrs 3 mos",
     "city": "Bogotá, Colombia",
-    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS Manager of 4 persons"
+    "description": "Management of digital technological development projects for clients of the agency: Samsung / Cheil, Pernod Ricard, Volkswagen, Alcatel, Totto, Benotto, IDB, seats Cloud platform administration (Linode and AWS) Development and integration of websites with Salesforce Marketing Cloud for the BID client Wikot is a pioneering integrated creativity agency in the experience of combining traditional advertising with new communication technologies. The company's headquarters are in Caracas and it has a presence in Chile, Mexico, Peru, Ecuador, Miami, Panama, Spain and Colombia. Skills: Angular, NodeJs, PHP, Wordpress, Apache, AWS. Manager of 4 persons"
   },
   {
     "title": "Wordpress Developer - Freelancer",
@@ -85,28 +88,31 @@ const entries = [
   },
   {
     "title": "Web Development Manager",
-    "company": "CINEX",
+    "company": "CINEX - Evenpro Group",
     "companyUrl": "https://www.cinex.com.ve/",
-    "date": "Nov 2013 - Oct 2014 · 1 yr",
+    "date": "Jan 2010 - Oct 2014 · 3.5 yrs (Total)",
     "city": "Caracas, Venezuela",
-    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 persons"
+    "description": "Direct multidisciplinary team for the Management of Innovation Projects and Adaptation of the Cinex's technological and transactional sales platform. Management of content projects and digital solutions in support of the different Managements of the Evenpro Group - Cinex. Skills: PHP, MySQL, RestApi, Vista Cinema, Soap, Online payments. Manager of 4 persons",
+    "childs": [
+      {
+        "title": "Web Development Manager",
+        "company": "Evenpro",
+        "companyUrl": "https://www.evenpro.com/",
+        "date": "Feb 2012 - Nov 2013 · 1 yr 10 mos",
+        "city": "Caracas, Venezuela",
+        "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. Manager of 6 persons."
+      },
+      {
+        "title": "Senior Web Developer",
+        "company": "Evenpro",
+        "companyUrl": "https://www.evenpro.com/",
+        "date": "Jun 2010 - Jan 2012 · 1 yr 8 mos",
+        "city": "Caracas, Venezuela",
+        "description": "Development of a content management system, applications and functionalities for the construction of the new website of the company. Integration of plugins and widgets for add functionalities within the web page, to share content with the Facebook and Twitter communities."
+      }
+    ]
   },
-  {
-    "title": "Web Development Manager",
-    "company": "Evenpro",
-    "companyUrl": "https://www.evenpro.com/",
-    "date": "Feb 2012 - Nov 2013 · 1 yr 10 mos",
-    "city": "Caracas, Venezuela",
-    "description": "Lead the team in charge of the analysis, planning, design, development and implementation of digital marketing campaigns in the web area, and social networks of the company. Manager of 6 persons."
-  },
-  {
-    "title": "Senior Web Developer",
-    "company": "Evenpro",
-    "companyUrl": "https://www.evenpro.com/",
-    "date": "Jun 2010 - Jan 2012 · 1 yr 8 mos",
-    "city": "Caracas, Venezuela",
-    "description": "Development of a content management system, applications and functionalities for the construction of the new website of the company. Integration of plugins and widgets for add functionalities within the web page, to share content with the Facebook and Twitter communities."
-  },
+  ,
   {
     "title": "Senior PHP Developer - Freelancer",
     "company": "Hotel Shelter Suites",
@@ -219,6 +225,7 @@ export function Curriculum() {
                     company={entry.company}
                     date={entry.date}
                     description={entry.description}
+                    childs={entry.childs ?? []}
                   />
                 ))}
               </div>
