@@ -220,11 +220,6 @@ export function Curriculum() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Education</h2>
               <Card
-                title="Electronic Engineer"
-                company="Universidad Central de Venezuela"
-                date="2008 - Not finished"
-              />
-              <Card
                 title="Web Project Manager"
                 company="ESCUELA WEB, LLCESCUELA WEB, LLC"
                 date="Issued Feb 2012"
@@ -243,6 +238,11 @@ export function Curriculum() {
                 title="IT and Networking Fundamentals"
                 company="IBM"
                 date="Issued Dec 2007 - Credential ID VECUC008182"
+              />
+              <Card
+                title="Electronic Engineer"
+                company="Universidad Central de Venezuela"
+                date="2005 - Not finished"
               />
             </div>
             <div className='pb-8'></div>
