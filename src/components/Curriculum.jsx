@@ -9,7 +9,7 @@ const entries = [
     "companyUrl": "https://www.stellarelements.com/",
     "date": "Jan 2022 - Present - 2 yrs (Total)",
     "city": "Medellín, Colombia",
-    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform unsing React, GraphQL Serverles and PostgresSQL. \n\n Manager of 4 engineers.",
+    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform using React, GraphQL Serverles and PostgresSQL. \n\n Manager of 4 engineers.",
     "childs": [
       {
         "title": "Senior Software Engineer, Manager",
