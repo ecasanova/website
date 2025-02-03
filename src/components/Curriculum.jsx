@@ -7,7 +7,7 @@ const entries = [
     "title": "Lead Software Engineer",
     "company": "Stellar Elements an Amdocs Company",
     "companyUrl": "https://www.stellarelements.com/",
-    "date": "Jan 2022 - Present - 2 yrs (Total)",
+    "date": "Jan 2022 - Present - 3 yrs (Total)",
     "city": "Medellín, Colombia",
     "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform using React, GraphQL Serverles and PostgresSQL. \n\n Manager of 4 engineers.",
     "childs": [
