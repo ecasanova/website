@@ -9,7 +9,7 @@ const entries = [
     "companyUrl": "https://www.amdocs.com/",
     "date": "Apr 2025 - Present",
     "city": "Medellín, Colombia",
-    "description": "As a Colombia Site Manager(Cross-Industry), I oversee local team, ensuring efficiency and seamless collaboration with the organization in software, web, application development, and design. I optimize workflows, enhance productivity, and drive process improvements to meet business objectives and project standards.  \n\n Manager of 15.",
+    "description": "As a Colombia Site Manager (Cross-Industry), I oversee local team, ensuring efficiency and seamless collaboration with the organization in software, web, application development, and design. I optimize workflows, enhance productivity, and drive process improvements to meet business objectives and project standards.  \n\n Manager of 15.",
     "childs": [
       {
         "title": "Lead Software Engineer",
