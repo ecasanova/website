@@ -4,13 +4,21 @@ import { Skills } from './Skills';
 
 const entries = [
   {
-    "title": "Lead Software Engineer",
-    "company": "Stellar Elements an Amdocs Company",
-    "companyUrl": "https://www.stellarelements.com/",
-    "date": "Jan 2022 - Present - 3 yrs (Total)",
+    "title": "Colombia Site Manager",
+    "company": "Amdocs",
+    "companyUrl": "https://www.amdocs.com/",
+    "date": "Apr 2025 - Present",
     "city": "Medellín, Colombia",
-    "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform using React, GraphQL Serverles and PostgresSQL. \n\n Manager of 4 engineers.",
+    "description": "As a Colombia Site Manager(Cross-Industry), I oversee local team, ensuring efficiency and seamless collaboration with the organization in software, web, application development, and design. I optimize workflows, enhance productivity, and drive process improvements to meet business objectives and project standards.  \n\n Manager of 15.",
     "childs": [
+      {
+        "title": "Lead Software Engineer",
+        "company": "Stellar Elements an Amdocs Company",
+        "companyUrl": "https://www.stellarelements.com/",
+        "date": "Jan 2022 - Present - 3 yrs (Total)",
+        "city": "Medellín, Colombia",
+        "description": "Promoted to Lead Software Engineer at Stellar Elements, doing 1:1 follow ups, performance reviews, and hiring. Having career conversations with the team, and career development plans. \n\n  Working on web platform using React, GraphQL Serverles and PostgresSQL. \n\n Manager of  engineers.",
+      },
       {
         "title": "Senior Software Engineer, Manager",
         "company": "Stellar Elements an Amdocs Company",
